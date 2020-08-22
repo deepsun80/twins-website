@@ -10428,15 +10428,15 @@ a.text-dark:focus {
 .page-section {
   padding: 6rem 0;
 }
-.page-section .page-section-heading {
-  font-size: 2.25rem;
+.stories {
+  padding-bottom: 6rem;
+}
+.page-section-heading {
+  font-size: 2rem;
   line-height: 2rem;
 }
-@media (min-width: 992px) {
-  .page-section .page-section-heading {
-    font-size: 3rem;
-    line-height: 2.5rem;
-  }
+.stories-heading {
+  padding-top: 4rem;
 }
 
 .divider-custom {
